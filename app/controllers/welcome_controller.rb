@@ -7,4 +7,7 @@ class WelcomeController < ApplicationController
 
   def about
   end
+
+  def lol
+  end
 end
